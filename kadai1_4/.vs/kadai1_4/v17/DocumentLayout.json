@@ -1,37 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\huang\\Documents\\Github\\kadai1_4\\kadai1_4\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C7399774-CA7C-4AE5-8F4D-3D718CC00894}|kadai1_4\\kadai1_4.vcxproj|C:\\Users\\huang\\Documents\\Github\\kadai1_4\\kadai1_4\\kadai1_4\\kadai1_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C7399774-CA7C-4AE5-8F4D-3D718CC00894}|kadai1_4\\kadai1_4.vcxproj|solutionrelative:kadai1_4\\kadai1_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\ktc\\Documents\\GitHub\\kadai1_4\\kadai1_4\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "kadai1_4.cpp",
-              "DocumentMoniker": "C:\\Users\\huang\\Documents\\Github\\kadai1_4\\kadai1_4\\kadai1_4\\kadai1_4.cpp",
-              "RelativeDocumentMoniker": "kadai1_4\\kadai1_4.cpp",
-              "ToolTip": "C:\\Users\\huang\\Documents\\Github\\kadai1_4\\kadai1_4\\kadai1_4\\kadai1_4.cpp",
-              "RelativeToolTip": "kadai1_4\\kadai1_4.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-26T03:00:21.832Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
